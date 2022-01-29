@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @mosesman831
-- 👀 I’m interested in C#, VB.NET, BatchFile etc.
-- 🌱 I’m currently learning Java
+Moses Man, Inc; Moses Software; Moses Man Software
 
 
 ![](https://komarev.com/ghpvc/?username=mosesman831&label=Profile+Views+of+Moses+Man)
