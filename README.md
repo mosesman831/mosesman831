@@ -1,5 +1,3 @@
-Moses Man, Inc; Moses Software; Moses Man Software
-![](https://cdn.discordapp.com/attachments/297582971488174096/489474400329007115/1.gif)
 
 ![](https://komarev.com/ghpvc/?username=mosesman831&label=Profile+Views+of+Moses+Man)
 
