@@ -1,6 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=mosesman831&label=Profile+Views+of+Moses+Man)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1000&color=20C20E&center=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Moses;A+cybersecurity+software+developer+from+Hong+Kong)](https://github.com/mosesman831)
 ![](https://cdn.discordapp.com/attachments/297582971488174096/489474400329007115/1.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesman831&label=Profile%20views&color=0e75b6&style=flat" alt="mosesman831" /> </p>
