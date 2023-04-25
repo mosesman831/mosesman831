@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&duration=2000&pause=2000&color=20C20E&center=true&multiline=true&width=520&height=60&lines=Hi!+I'm+Moses;A+cybersecurity+developer+from+Hong+Kong)](https://git.io/typing-svg)
 ![](https://cdn.discordapp.com/attachments/297582971488174096/489474400329007115/1.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesman831&label=Profile%20views&color=0e75b6?style=for-the-badge" alt="mosesman831" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesman831&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="mosesman831" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/Alt-manm15-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
-
-
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%mosesman831&longCache=true"/>
+![GitHub followers](https://img.shields.io/github/followers/mosesman831?color=blueviolet&label=GitHub%20Followers&style=for-the-badge)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosesman831&theme=algolia" alt="mosesman831" /></a> </p>
 
