@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesman831&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="mosesman831" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/Account-PRO-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/Alt-manm15-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
-<p align="left"> <img src="https://img.shields.io/badge/CSGO-mosesman831-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/USE-SPSE.gq-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
 
 
 ![GitHub followers](https://img.shields.io/github/followers/mosesman831?color=blueviolet&label=GitHub%20Followers&style=for-the-badge)
@@ -70,3 +70,6 @@
 
 <p align="left"> <img src="https://img.shields.io/badge/SPSE.gq-ADMIN-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/USE-SPSE.gq-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Account-PRO-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/SPSE.gq-Beta-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/SPSE.gq-WORKING-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
