@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&duration=2000&pause=2000&color=20C20E&center=true&multiline=true&width=520&height=60&lines=Hi!+I'm+Moses;A+cybersecurity+developer+from+Hong+Kong)](https://git.io/typing-svg)
 ![](https://cdn.discordapp.com/attachments/297582971488174096/489474400329007115/1.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesman831&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="mosesman831" /> </p>
-<p align="left"> <img src="https://img.shields.io/badge/Alt-manm15-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/Account-PRO-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Alt-manm15-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/CSGO-mosesman831-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
 
 
 ![GitHub followers](https://img.shields.io/github/followers/mosesman831?color=blueviolet&label=GitHub%20Followers&style=for-the-badge)
