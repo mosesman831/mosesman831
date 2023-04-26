@@ -2,6 +2,8 @@
 ![](https://cdn.discordapp.com/attachments/297582971488174096/489474400329007115/1.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesman831&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="mosesman831" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/Alt-manm15-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Account-PRO-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/mosesman831?color=blueviolet&label=GitHub%20Followers&style=for-the-badge)
 
