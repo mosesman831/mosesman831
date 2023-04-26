@@ -61,3 +61,10 @@
 <p align="left"> <img src="https://img.shields.io/badge/Steam-mosesman831-red?style=for-the-badge" alt="mosesman831" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/CS:GO-PRIME-yellow?style=for-the-badge" alt="mosesman831" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/CS:GO-SILVER-lightgrey?style=for-the-badge" alt="mosesman831" /> </p>
+
+![](https://cdn.discordapp.com/attachments/297582971488174096/489474400329007115/1.gif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=5000&color=20C20E&multiline=true&width=435&lines=Others)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://img.shields.io/badge/SPSE.gq-ADMIN-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/USE-SPSE.gq-blueviolet?style=for-the-badge" alt="mosesman831" /> </p>
