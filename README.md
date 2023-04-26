@@ -52,6 +52,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mosesman831/mosesman831/output/github-contribution-grid-snake.svg">
 </picture>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ![](https://cdn.discordapp.com/attachments/297582971488174096/489474400329007115/1.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=5000&color=20C20E&width=435&lines=Hobbies)](https://git.io/typing-svg)
