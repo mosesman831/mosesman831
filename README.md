@@ -23,6 +23,8 @@
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Clones%20of%20OCI-OcC-Fix&query=count&url=https://gist.githubusercontent.com/mosesman831/7fe542add926a52bbdcee8e98f7bd81b/raw/clone.json&logo=github&style=for-the-badge)](https://github.com/MShawon/github-clone-count-badge)
 - **[PolyBrain](https://github.com/mosesman831/PolyBrain)** – Multi-model orchestration skill for Hermes Agent - parallel subagents, citation enforcement, source verification.
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Clones%20of%20PolyBrain&query=count&url=https://gist.githubusercontent.com/mosesman831/f4492c457974754d327d0ae618ccd94c/raw/clone.json&logo=github&style=for-the-badge)](https://github.com/MShawon/github-clone-count-badge)
+- **[PolyGnosis](https://github.com/mosesman831/PolyBrain)** – Adversarial multi-model consensus protocol for Hermes Agent. Independent solve. Adversarial critique. Formal scoring. Verified synthesis.
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Clones%20of%20PolyBrain&query=count&url=https://gist.githubusercontent.com/mosesman831/46e9baf385ddb14bb52a73bdd112c533/raw/clone.json&logo=github&style=for-the-badge)](https://github.com/MShawon/github-clone-count-badge)
 
 ---
 
