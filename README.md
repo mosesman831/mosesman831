@@ -20,9 +20,9 @@
 ### 🔧 Projects
 
 - **[OCI-OcC-Fix](https://github.com/mosesman831/OCI-OcC-Fix)** – Python tool to help work around Oracle Cloud “out of capacity” issues with smarter retries and automation.
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/mosesman831/7fe542add926a52bbdcee8e98f7bd81b/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Clones%20of%20OCI-OcC-Fix&query=count&url=https://gist.githubusercontent.com/mosesman831/7fe542add926a52bbdcee8e98f7bd81b/raw/clone.json&logo=github&style=for-the-badge)](https://github.com/MShawon/github-clone-count-badge)
 - **[PolyBrain](https://github.com/mosesman831/PolyBrain)** – Multi-model orchestration skill for Hermes Agent - parallel subagents, citation enforcement, source verification.
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/mosesman831/f4492c457974754d327d0ae618ccd94c/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Clones%20of%20PolyBrain&query=count&url=https://gist.githubusercontent.com/mosesman831/f4492c457974754d327d0ae618ccd94c/raw/clone.json&logo=github&style=for-the-badge)](https://github.com/MShawon/github-clone-count-badge)
 
 ---
 
