@@ -19,7 +19,8 @@
 
 ### 🔧 Projects
 
-- **[OCI-OcC-Fix](https://github.com/mosesman831/OCI-OcC-Fix)** – Python tool to help work around Oracle Cloud “out of capacity” issues with smarter retries and automation.  
+- **[OCI-OcC-Fix](https://github.com/mosesman831/OCI-OcC-Fix)** – Python tool to help work around Oracle Cloud “out of capacity” issues with smarter retries and automation.
+- - **[PolyBrain](https://github.com/mosesman831/PolyBrain)** – Multi-model orchestration skill for Hermes Agent - parallel subagents, citation enforcement, source verification.
 
 ---
 
